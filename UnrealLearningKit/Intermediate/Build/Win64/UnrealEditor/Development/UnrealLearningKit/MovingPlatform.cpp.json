@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\evert\\documents\\github\\obstacleassault\\unreallearningkit\\source\\unreallearningkit\\movingplatform.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\evert\\documents\\github\\obstacleassault\\unreallearningkit\\intermediate\\build\\win64\\unreallearningkiteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\evert\\documents\\github\\obstacleassault\\unreallearningkit\\intermediate\\build\\win64\\unrealeditor\\development\\unreallearningkit\\definitions.unreallearningkit.h",
+            "c:\\users\\evert\\documents\\github\\obstacleassault\\unreallearningkit\\source\\unreallearningkit\\movingplatform.h",
+            "c:\\users\\evert\\documents\\github\\obstacleassault\\unreallearningkit\\intermediate\\build\\win64\\unrealeditor\\inc\\unreallearningkit\\movingplatform.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

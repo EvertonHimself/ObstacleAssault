@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealLearningKit",
+			"Path": "C:\\Users\\evert\\Documents\\GitHub\\ObstacleAssault\\UnrealLearningKit\\Source\\UnrealLearningKit.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealLearningKitEditor",
+			"Path": "C:\\Users\\evert\\Documents\\GitHub\\ObstacleAssault\\UnrealLearningKit\\Source\\UnrealLearningKitEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
